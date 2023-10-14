@@ -9,9 +9,10 @@ Anaconda - Python 3.7
 - Step3: Detect points that form a line using HoughLinesP.
 - Step4: Draw lines on the image.
 - Step5: Display the result.
-
+```
 Developed By: ROHIT JAIN D
 Register No: 212222230120
+```
 ### Program:
 - Read image and convert it to grayscale image
   ```Python
@@ -35,7 +36,7 @@ Register No: 212222230120
   plt.axis("off")
   plt.show()
   ```
-  <img height=15% width=75% src="https://github.com/ROHITJAIND/EX-8-EDGE-LINKING-HOUGH-TRANSFORM/assets/118707073/e88f1df9-c32d-48b4-b384-3ef310029b7d">
+  <img height=10% width=55% src="https://github.com/ROHITJAIND/EX-8-EDGE-LINKING-HOUGH-TRANSFORM/assets/118707073/e88f1df9-c32d-48b4-b384-3ef310029b7d">
 
 
 - Find the edges in the image using canny detector and display
