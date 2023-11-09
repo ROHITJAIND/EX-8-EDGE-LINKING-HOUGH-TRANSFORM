@@ -1,6 +1,6 @@
 # EX-8 EDGE LINKING HOUGH TRANSFORM
 ### Aim:
-To write a Python program to detect the lines using Hough Transform.
+To write a Python program to detect the lines using HoughTransform. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE:** 10.10.2023<br>
 ### Software Required:
 Anaconda - Python 3.7
 ### Algorithm:
